@@ -1,6 +1,6 @@
-title: Visual Studio Code Recipes
+title: Site title
 description: > # this means to ignore newlines until "baseurl:"
-  Get off the ground with Visual Studio Code fast with these simple recipes!
+  Site description
 permalink: ':title/'
 baseurl: "/jekyll-simple-blog-template" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -17,9 +17,9 @@ social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
 # Site Settings
-site-name: Visual Studio Code Recipes
+site-name: Site Name
 site-logo-img: visual-studio-code-logo.svg
-about-site: Get off the ground with Visual Studio Code fast with these simple recipes!
+about-site: Site description
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
